@@ -1,1 +1,1 @@
-# Coursera-Data-Structures-and-Algorithms-Specialization-
+# UCSD: Data Structures & Algorithms Specialization
