@@ -9,3 +9,10 @@ Week 2: Algorithmic Warmups  <br />
 2. [FibonacciLastDight](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week2_algorithmic_warmup/FibonacciLastDigit.java) <br />
 3. [GCD](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week2_algorithmic_warmup/GCD.java) <br />
 4. [LCM](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week2_algorithmic_warmup/LCM.java) <br />
+
+Week 3: Greedy Algorithms
+1. [Change](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week3_greedy_algorithms/Change.java) <br />
+2. [FractionalKnapsack](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week3_greedy_algorithms/FractionalKnapsack.java) <br />
+3. [DotProduct](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week3_greedy_algorithms/DotProduct.java) <br />
+4. [CarRefueling](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week3_greedy_algorithms/CarFueling.java) <br />
+5. [CoveringSegments](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week3_greedy_algorithms/CoveringSegments.java) <br />
