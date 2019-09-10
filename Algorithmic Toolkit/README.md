@@ -1,4 +1,4 @@
-# Algorthmic Toolkit
+# Algorthmic Toolkit #
 
 **Week1: Programming Challenges **
 
