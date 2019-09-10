@@ -1,6 +1,6 @@
 # UCSD: Data Structures & Algorithms Specialization
 
-**Course 1: Algorithmic Toolbox**  <br />
+**Course 1: [Algorithmic Toolbox](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/tree/master/Algorithmic%20Toolkit)**  <br />
 The course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming.
 
 
