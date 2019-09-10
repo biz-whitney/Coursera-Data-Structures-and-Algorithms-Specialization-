@@ -15,3 +15,6 @@ World and internet is full of textual information. We search for information usi
 
 **Course 5: Advanced Algorithms and Complexity** <br />
 This course begins with networks flows which are used typical applications such as optimal matchings, finding disjoint paths and flight scheduling as well as more surprising ones like image segmentation in computer vision. We then proceed to linear programming with applications in optimizing budget allocation, portfolio optimization, finding the cheapest diet satisfying all requirements and many others.
+
+**Course 6: Genome Assembly Programming Challenge** <br />
+In this Genome Assembly Programming Challenge, you will follow in the footsteps of the bioinformaticians investigating the deadliest E.coli outbreak in history by developing a program to assemble the genome of the E. coli X from millions of overlapping substrings of the E.coli X genome.
