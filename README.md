@@ -7,7 +7,7 @@ The course covers basic algorithmic techniques and ideas for computational probl
 **Course 2: [Data Structures](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/tree/master/Data%20Structures%20)**  <br />
 In this course, we consider the common data structures that are used in various computational problems. You will learn how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments.
 
-**Course 3: Algorithms on Graphs** <br />
+**Course 3: [Algorithms on Graphs](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/tree/master/Algorithms%20on%20Graphs%20)** <br />
 In this course, you will first learn what a graph is and what are some of the most important properties. Then you'll learn several ways to traverse graphs and how you can do useful things while traversing the graph in some order.
 
 **Course 4: Algorithms on Strings** <br />
