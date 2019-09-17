@@ -1,4 +1,4 @@
-# Data Structures#
+# Data Structures
 
 Week 1: Basic Data Structures  <br />
 1. [check_brackets](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Data%20Structures%20/Week1_basic_data_structures/check_brackets.java) <br />
