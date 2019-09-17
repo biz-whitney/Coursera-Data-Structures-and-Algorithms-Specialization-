@@ -18,6 +18,6 @@ Week 3: Greedy Algorithms
 5. [CoveringSegments](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week3_greedy_algorithms/CoveringSegments.java) <br />
 
 Week 4: Divide and Conquer
-1.[BinarySearch](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week4_divide_and_conquer/BinarySearch.java) <br />
-2.[MajorityElement](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week4_divide_and_conquer/MajorityElement.java)
-3.[Sorting](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week4_divide_and_conquer/Sorting.java) <br />
+1. [BinarySearch](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week4_divide_and_conquer/BinarySearch.java) <br />
+2. [MajorityElement](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week4_divide_and_conquer/MajorityElement.java)
+3. [Sorting](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week4_divide_and_conquer/Sorting.java) <br />
