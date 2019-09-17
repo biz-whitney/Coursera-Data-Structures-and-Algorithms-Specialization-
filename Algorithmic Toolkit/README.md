@@ -21,3 +21,8 @@ Week 4: Divide and Conquer
 1. [BinarySearch](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week4_divide_and_conquer/BinarySearch.java) <br />
 2. [MajorityElement](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week4_divide_and_conquer/MajorityElement.java)
 3. [Sorting](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week4_divide_and_conquer/Sorting.java) <br />
+
+Week 5: Dynamic Programming
+1. [ChangeDP](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week5_dynamic_programming1/ChangeDP.java) <br />
+2. [EditDistance](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week5_dynamic_programming1/EditDistance.java) <br />
+3. [PrimitiveCalculator](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week5_dynamic_programming1/PrimitiveCalculator.java) <br />
