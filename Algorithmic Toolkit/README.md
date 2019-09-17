@@ -26,3 +26,7 @@ Week 5: Dynamic Programming
 1. [ChangeDP](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week5_dynamic_programming1/ChangeDP.java) <br />
 2. [EditDistance](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week5_dynamic_programming1/EditDistance.java) <br />
 3. [PrimitiveCalculator](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week5_dynamic_programming1/PrimitiveCalculator.java) <br />
+
+Week 6: Dynamic Programming 2
+1. [Knapsack](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week6_dynamic_programming2/Knapsack.java) <br />
+2. [PlacingParentheses](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/blob/master/Algorithmic%20Toolkit/Week6_dynamic_programming2/PlacingParentheses.java) <br />
