@@ -13,7 +13,7 @@ In this course, you will first learn what a graph is and what are some of the mo
 **Course 4: [Algorithms on Strings](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/tree/master/Algorithms%20on%20Strings)** <br />
 World and internet is full of textual information. We search for information using textual queries, we read websites, books, e-mails. All those are strings from the point of view of computer science. To make sense of all that information and make search efficient, search engines use many string algorithms. Moreover, the emerging field of personalized medicine uses many search algorithms to find disease-causing mutations in the human genome.
 
-**Course 5: Advanced Algorithms and Complexity** <br />
+**Course 5: [Advanced Algorithms and Complexity](https://github.com/biz-whitney/Coursera-Data-Structures-and-Algorithms-Specialization-/tree/master/Advanced%20Algorithms%20and%20Complexity)** <br />
 This course begins with networks flows which are used typical applications such as optimal matchings, finding disjoint paths and flight scheduling as well as more surprising ones like image segmentation in computer vision. We then proceed to linear programming with applications in optimizing budget allocation, portfolio optimization, finding the cheapest diet satisfying all requirements and many others.
 
 **Course 6: Genome Assembly Programming Challenge** <br />
